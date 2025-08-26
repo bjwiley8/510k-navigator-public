@@ -1,0 +1,15 @@
+device_name: "Ormi Great Toe Hemi (metatarsal head)"
+route_product_code: "KWD"
+fixation: "cemented"
+sterilization: "EO"
+packaging: "Double"
+shelf_life_months: 24
+indications: "The Ormi Great Toe is intended to be implanted to replace the distal metatarsal surface of the great toe of patients with degenerative and post-traumatic arthritis in the first metatarsal joint in the presence of good bone stock along with the following clinical conditions: hallux valgus or hallux limitus, hallux rigidus, and an unstable or painful metatarsal/phalangeal (MTP) joint. The device is a single use implant intended to be used with bone cement."
+materials:
+  - "CoCrMo (AM, polished rim)"
+  - "Polycarbonate urethane (Carbothane 85A)"
+  - "Poly(sulfobetaine amide) brush <200 nm"
+mr_labeling: "none"
+sizes_mm: ["14x12","16x14","16x16"]
+worst_case_wear: "16x16"
+worst_case_strength: "14x12"
