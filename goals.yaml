@@ -1,0 +1,10 @@
+goals:
+  - name: "Planner: build a function that reads profiles/ormi.yaml and returns a validated Field Sheet dict (pydantic), plus unit tests"
+    iters: 10
+    automerge: true
+  - name: "Attachments: generate an Attachments Checklist (list of filenames and rationales) for the device profile, plus unit tests"
+    iters: 8
+    automerge: true
+  - name: "Exporters: add Markdown and HTML exporters for the Field Sheet and Attachments using Jinja2; provide CLI entrypoints and tests"
+    iters: 10
+    automerge: true
